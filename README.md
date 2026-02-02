@@ -1,0 +1,2 @@
+# Prompt-Engineering-Project-AI-Policy-Researcher-AI.x-at-Charles-Schwab-SWOT-Analysis-
+Two LLMs (perplexity and ChatGPT) will be utilzied in order to showcase my research and analysis in regards to ethical AI policy, governance and security risks regarding the role of an AI Policy Researcher at Charle's Scwab's AI.xx team. A SWOT analysis is also involved with the job, policy framework, policy translation, etc. 
